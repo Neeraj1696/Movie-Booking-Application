@@ -1,0 +1,23 @@
+.login_main{
+    text-align: center;
+    margin-top:18rem;
+    padding:10px;
+   
+
+   
+}
+.input_box > input{
+    margin: 5px;
+    width: 20%;
+    text-align: center;
+    height: 30px;
+    border-radius: 10px;
+}
+
+input{
+    
+    height: 30px;
+    width: 20%;
+    margin-bottom: 15px;
+    
+}
